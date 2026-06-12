@@ -1,0 +1,9 @@
+[2026-04-10 10:00 UTC] GitHub Trending Weekly Cron Start
+Source: https://github.com/trending?since=weekly (Overall, This week)
+Method: web_fetch + curl raw HTML
+Result: SSR 頁面，僅解析出 11 筆完整 repo 資料（GitHub 限制非登入會話）
+Pages attempted: 1, 2, 3, API fallback
+Items recovered: 11 / 20
+Output: 2026-04-10.md written
+State: STATE.json updated
+Status: OK (partial — 11 items only)

@@ -1,0 +1,83 @@
+2026-05-16 ~ 2026-05-22｜GitHub Trending（Overall，本週）
+
+1. tinyhumansai/openhuman <https://github.com/tinyhumansai/openhuman>
+   私人 AI 超智慧終端，強調高度隱私與極致效能。
+   語言：Rust　｜　本週 17,399 ★
+
+2. colbymchenry/codegraph <https://github.com/colbymchenry/codegraph>
+   為 Claude Code / Codex / Cursor 等coding agent 預先索引的程式碼知識圖譜，大幅減少 token 消耗與工具呼叫次數，全本地運行。
+   語言：TypeScript　｜　本週 10,749 ★
+
+3. Imbad0202/academic-research-skills <https://github.com/Imbad0202/academic-research-skills>
+   幫助 Claude Code 完成學術研究—從文獻調研、寫作、審稿到定稿的完整技能集。
+   語言：Python　｜　本週 10,737 ★
+
+4. supertone-inc/supertonic <https://github.com/supertone-inc/supertonic>
+   極速、離線、多語言語音合成引擎，透過 ONNX 原生運行。
+   語言：Swift　｜　本週 4,120 ★
+
+5. rohitg00/agentmemory <https://github.com/rohitg00/agentmemory>
+   排名第一的 coding agent 持久化記憶方案，基於真實基準測試開發。
+   語言：TypeScript　｜　本週 7,000 ★
+
+6. CloakHQ/CloakBrowser <https://github.com/CloakHQ/CloakBrowser>
+   能通過所有機器人檢測試驗的隱形 Chromium，適用於 Playwright 的直接替代品，原始碼層指紋修補，測試通過率 30/30。
+   語言：Python　｜　本週 7,769 ★
+
+7. ruvnet/RuView <https://github.com/ruvnet/RuView>
+   將普通 WiFi 訊號轉為即時空間感知、生命徵兆監測與存在感測——無需任何影像資料。
+   語言：Rust　｜　本週 7,636 ★
+
+8. oven-sh/bun <https://github.com/oven-sh/bun>
+   快速 JS 執行環境、 bundler、測試執行器、套件管理器，一體化。
+   語言：Rust　｜　本週 2,377 ★
+
+9. humanlayer/12-factor-agents <https://github.com/humanlayer/12-factor-agents>
+   探討如何構建能真正交付給生產用戶的 LLM 驅動軟體原則。
+   語言：TypeScript　｜　本週 1,729 ★
+
+10. datawhalechina/easy-vibe <https://github.com/datawhalechina/easy-vibe>
+    2026 年的 Vibe Coding 入門課程，带领新手一步步掌握現代開發。
+    語言：JavaScript　｜　本週 2,979 ★
+
+11. facebook/pyrefly <https://github.com/facebook/pyrefly>
+    Facebook 開源的快速 Python 型別檢查器與語言伺服器。
+    語言：Rust　｜　本週 572 ★
+
+12. obra/superpowers <https://github.com/obra/superpowers>
+    讓 agentic skills 框架與軟體開發方法論真正落地的工作流。
+    語言：Shell　｜　本週 10,688 ★
+
+13. HKUDS/ViMax <https://github.com/HKUDs/ViMax>
+    Agentic 影片生成一體化工具——導演、編劇、製作人、生成器全部整合。
+    語言：Python　｜　本週 2,495 ★
+
+14. mattpocock/skills <https://github.com/mattpocock/skills>
+    從 Matt Pocock 的 .claude 目錄直接提煉出的工程師技能集。
+    語言：Shell　｜　本週 17,535 ★
+
+以下為補足至 20 名的備援資料（來源：trendshift.io）：
+
+15. anthropics/claude-plugins-official <https://github.com/anthropics/claude-plugins-official>
+    Anthropic 官方維護的高品質 Claude Code 外掛目錄。
+    語言：—　｜　Rising
+
+16. Lum1104/Understand-Anything <https://github.com/Lum1104/Understand-Anything>
+    將任何程式碼轉為可互動知識圖譜的工具，支持 Claude Code、Copilot 等主流 coding agent。
+    語言：TypeScript　｜　Rising
+
+17. multica-ai/multica <https://github.com/multica-ai/multica>
+    開源托管 agent 平台，讓 coding agent 變成真正的團隊成員——任務分配、進度追蹤、技能累積一體化。
+    語言：—　｜　Rising
+
+18. ChromeDevTools/chrome-devtools-mcp <https://github.com/ChromeDevTools/chrome-devtools-mcp>
+    Chrome DevTools 的 MCP 伺服器實作，讓 coding agent 能直接控制瀏覽器。
+    語言：TypeScript　｜　Rising
+
+19. alireza0/s-ui <https://github.com/alireza0/s-ui>
+    專為 SagerNet / Sing-Box 設計的高級 Web 管理面板。
+    語言：—　｜　Rising
+
+20. msitarzewski/agency-agents <https://github.com/msitarzewski/agency-agents>
+    一站式 AI agency 方案——從前端 wizard 到 Reddit 社群 ninja，每個 agent 都是專業專家。
+    語言：—　｜　Rising

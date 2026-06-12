@@ -1,0 +1,103 @@
+2026-06-08–2026-06-14｜Trending 篩選條件：Overall｜來源：GitHub Trending weekly 僅解析出 17 筆，故以備援 Trendshift Weekly 補足 Top 20
+
+1. mvanhorn/last30days-skill <https://github.com/mvanhorn/last30days-skill>
+   - 它在做什麼：研究 Reddit、X、YouTube、HN、Polymarket 與網頁內容後，幫 AI agent 產出有依據的摘要技能。
+   - 主要語言：Python
+   - 亮點：把多來源研究工作流封裝成單一 skill，很貼近 agent 實戰需求。
+
+2. apple/container <https://github.com/apple/container>
+   - 它在做什麼：在 Mac 上用輕量 VM 建立與執行 Linux containers 的工具。
+   - 主要語言：Swift
+   - 亮點：Apple 官方出手做 container tooling，對 Apple silicon 開發者特別有吸引力。
+
+3. addyosmani/agent-skills <https://github.com/addyosmani/agent-skills>
+   - 它在做什麼：給 AI coding agents 用的 production-grade 工程技能集合。
+   - 主要語言：Shell
+   - 亮點：延續近期 agent skills 熱潮，而且由 Addy Osmani 推動，傳播力很強。
+
+4. phuryn/pm-skills <https://github.com/phuryn/pm-skills>
+   - 它在做什麼：收錄 100+ agentic skills、commands、plugins 的 PM 技能市集。
+   - 主要語言：N/A
+   - 亮點：把產品管理工作流模組化，代表技能市場已從工程擴散到 PM 場景。
+
+5. XiaomiMiMo/MiMo-Code <https://github.com/XiaomiMiMo/MiMo-Code>
+   - 它在做什麼：來源頁未提供完整說明；從標題與標籤看是小米的 AI coding 相關專案。
+   - 主要語言：TypeScript
+   - 亮點：即使資訊不多仍衝進前五，顯示品牌與 AI coding 題材的吸睛度很高。
+
+6. msitarzewski/agency-agents <https://github.com/msitarzewski/agency-agents>
+   - 它在做什麼：把多種不同人格與職能的 agent 打包成完整 AI agency。
+   - 主要語言：Shell
+   - 亮點：從前端到社群經營都有專職 agent，主打可直接交付的團隊式協作。
+
+7. mattpocock/skills <https://github.com/mattpocock/skills>
+   - 它在做什麼：Matt Pocock 從自己的 `.claude` 目錄整理出的技能集合。
+   - 主要語言：Shell
+   - 亮點：知名開發者公開個人技能庫，讓 repo 帶有很強的可移植實戰價值。
+
+8. elder-plinius/CL4R1T4S <https://github.com/elder-plinius/CL4R1T4S>
+   - 它在做什麼：蒐集多家 AI 工具的 system prompts 與模型相關資料。
+   - 主要語言：N/A
+   - 亮點：AI 透明化與 prompt 洩漏議題本來就自帶高討論度，因此容易快速擴散。
+
+9. chopratejas/headroom <https://github.com/chopratejas/headroom>
+   - 它在做什麼：在輸出進 LLM 前壓縮工具結果、log、檔案與 RAG chunks，降低 token 成本。
+   - 主要語言：Python
+   - 亮點：同時提供 library、proxy、MCP server，對 agent-heavy 工作流非常實用。
+
+10. Leonxlnx/taste-skill <https://github.com/Leonxlnx/taste-skill>
+   - 它在做什麼：幫 AI 建立「好品味」，減少生成無聊、制式內容的 skill。
+   - 主要語言：Shell
+   - 亮點：直接瞄準生成品質與審美問題，切中使用者對 AI slop 的反感。
+
+11. harry0703/MoneyPrinterTurbo <https://github.com/harry0703/MoneyPrinterTurbo>
+   - 它在做什麼：用 AI LLM 一鍵生成高清短影片。
+   - 主要語言：Python
+   - 亮點：AI 短影音仍是高需求場景，這類「一鍵出片」產品很容易持續上升。
+
+12. RyanCodrai/turbovec <https://github.com/RyanCodrai/turbovec>
+   - 它在做什麼：基於 TurboQuant 的向量索引，使用 Rust 編寫並提供 Python bindings。
+   - 主要語言：Rust
+   - 亮點：RAG 基礎設施仍熱，Rust 核心加 Python 介面的組合很適合工程落地。
+
+13. obra/superpowers <https://github.com/obra/superpowers>
+   - 它在做什麼：一套可運作的 agentic skills framework 與軟體開發方法論。
+   - 主要語言：Shell
+   - 亮點：不只給工具，也包方法論，對想把 AI 開發流程制度化的人很有吸引力。
+
+14. NousResearch/hermes-agent <https://github.com/NousResearch/hermes-agent>
+   - 它在做什麼：一個會隨著使用者一起成長的 agent。
+   - 主要語言：Python
+   - 亮點：NousResearch 品牌加上「成長型 agent」敘事，很容易吸引長期使用者關注。
+
+15. santifer/career-ops <https://github.com/santifer/career-ops>
+   - 它在做什麼：建立在 Claude Code 上的 AI 求職系統，含 14 種 skill modes、dashboard 與 PDF 產生。
+   - 主要語言：JavaScript
+   - 亮點：把 agent workflow 直接落到求職這種高頻個人任務，場景非常明確。
+
+16. refactoringhq/tolaria <https://github.com/refactoringhq/tolaria>
+   - 它在做什麼：管理 Markdown 知識庫的桌面應用程式。
+   - 主要語言：TypeScript
+   - 亮點：知識庫整理需求穩定，而 desktop app 形態也比純 CLI 更易被一般使用者接受。
+
+17. pewdiepie-archdaemon/odysseus <https://github.com/pewdiepie-archdaemon/odysseus>
+   - 它在做什麼：自架式 AI workspace。
+   - 主要語言：JavaScript
+   - 亮點：Self-hosted AI workspace 題材持續有熱度，主打把資料與流程留在自己手上。
+
+18. Panniantong/Agent-Reach <https://github.com/Panniantong/Agent-Reach>
+   - 它在做什麼：讓 AI agent 能讀取與搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書等整個網路。
+   - 主要語言：Python
+   - 亮點：一個 CLI 打通多平台而且標榜零 API 費，對研究型 agent 很有吸引力。
+
+19. farion1231/cc-switch <https://github.com/farion1231/cc-switch>
+   - 它在做什麼：支援 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 與 Hermes Agent 的跨平台桌面助手。
+   - 主要語言：Rust
+   - 亮點：多 agent/CLI 切換加上 MCP 整合，正好打中當前 tooling 碎片化痛點。
+
+20. safishamsi/graphify <https://github.com/safishamsi/graphify>
+   - 它在做什麼：把程式碼、SQL schema、文件、圖片、影片等內容轉成可查詢的 knowledge graph 的 AI coding assistant skill。
+   - 主要語言：Python
+   - 亮點：把 app code、資料庫與基礎設施放進同一張圖，非常適合複雜程式庫理解。
+
+RUN_STATUS: OK

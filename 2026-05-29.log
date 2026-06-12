@@ -1,0 +1,6 @@
+[2026-05-29T10:02:30Z] Weekly GitHub Trending (since=weekly, Overall)
+- Fetched https://github.com/trending?since=weekly → 20 repos extracted
+- 0 missing language fields
+- Source: GitHub Trending (direct fetch)
+- All 20 items complete. Output generated and delivered.
+RUN_STATUS: OK
