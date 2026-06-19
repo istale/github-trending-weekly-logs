@@ -1,0 +1,103 @@
+2026-06-15–2026-06-21｜Trending 篩選條件：Overall
+
+1. NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>
+   - 它在做什麼：掃描 AI agent skills 的安全風險，找出惡意模式與漏洞。
+   - 主要語言：Python
+   - 亮點：NVIDIA 切進 agent skill security，而且本週熱度非常猛。
+
+2. addyosmani/agent-skills <https://github.com/addyosmani/agent-skills>
+   - 它在做什麼：提供 AI coding agents 可直接上線使用的工程技能集合。
+   - 主要語言：Shell
+   - 亮點：知名開發者背書加上高度實戰化，持續帶動 agent skills 熱潮。
+
+3. iptv-org/iptv <https://github.com/iptv-org/iptv>
+   - 它在做什麼：整理全球公開可用的 IPTV 頻道清單。
+   - 主要語言：TypeScript
+   - 亮點：不是 AI 題材卻衝進前三，顯示實用型資料庫專案依然很能吸星。
+
+4. apple/container <https://github.com/apple/container>
+   - 它在做什麼：讓 Mac 用輕量 VM 建立並執行 Linux containers。
+   - 主要語言：Swift
+   - 亮點：Apple 官方做 container tooling，對 Apple silicon 開發者吸引力很高。
+
+5. phuryn/pm-skills <https://github.com/phuryn/pm-skills>
+   - 它在做什麼：收錄 100+ agentic skills、commands 與 plugins 的 PM 技能市集。
+   - 主要語言：N/A
+   - 亮點：把 agent workflow 從工程擴展到產品管理，市場感很強。
+
+6. Panniantong/Agent-Reach <https://github.com/Panniantong/Agent-Reach>
+   - 它在做什麼：讓 AI agent 用單一 CLI 搜尋 Twitter、Reddit、YouTube、GitHub 等整個網路。
+   - 主要語言：Python
+   - 亮點：標榜零 API 費打通多平台，對研究型 agent 特別有殺傷力。
+
+7. kenn-io/agentsview <https://github.com/kenn-io/agentsview>
+   - 它在做什麼：為 Claude Code、Codex 等多種 coding agents 做本機優先的 session 搜尋與分析。
+   - 主要語言：Go
+   - 亮點：直接補上 agent 使用統計與洞察這塊可觀測性缺口。
+
+8. chopratejas/headroom <https://github.com/chopratejas/headroom>
+   - 它在做什麼：在工具輸出、logs、檔案與 RAG chunks 進 LLM 前先壓縮 token。
+   - 主要語言：Python
+   - 亮點：主打少 60% 到 95% tokens 但維持答案品質，很切中 agent 成本痛點。
+
+9. DeusData/codebase-memory-mcp <https://github.com/DeusData/codebase-memory-mcp>
+   - 它在做什麼：把程式庫索引成持久化 knowledge graph 的高效能 MCP server。
+   - 主要語言：C
+   - 亮點：158 種語言、零依賴、靜態單 binary，明顯瞄準大規模 code intelligence。
+
+10. meshery/meshery <https://github.com/meshery/meshery>
+   - 它在做什麼：雲原生基礎設施的管理平台。
+   - 主要語言：TypeScript
+   - 亮點：老牌 cloud native 專案再上榜，說明平台治理需求依舊穩定。
+
+11. LMCache/LMCache <https://github.com/LMCache/LMCache>
+   - 它在做什麼：提供高速 KV cache layer，替 LLM 推理加速。
+   - 主要語言：Python
+   - 亮點：LLM infra 仍是熱門賽道，快取層這種硬需求很容易持續累積關注。
+
+12. chatwoot/chatwoot <https://github.com/chatwoot/chatwoot>
+   - 它在做什麼：開源客服平台，涵蓋 live chat、email support 與 omnichannel desk。
+   - 主要語言：Ruby
+   - 亮點：作為 Intercom/Zendesk 替代品，商業場景明確而且成熟。
+
+13. pytest-dev/pytest <https://github.com/pytest-dev/pytest>
+   - 它在做什麼：Python 測試框架，從小型測試到複雜功能測試都能支援。
+   - 主要語言：Python
+   - 亮點：經典基礎設施型專案仍能上熱門，代表 Python 生態活躍度很高。
+
+14. puppeteer/puppeteer <https://github.com/puppeteer/puppeteer>
+   - 它在做什麼：提供 Chrome 與 Firefox 的 JavaScript 自動化 API。
+   - 主要語言：TypeScript
+   - 亮點：瀏覽器自動化依然是測試與 agent 執行任務的重要底座。
+
+15. mvanhorn/last30days-skill <https://github.com/mvanhorn/last30days-skill>
+   - 它在做什麼：跨 Reddit、X、YouTube、HN、Polymarket 與網頁做研究後，輸出有依據的主題摘要 skill。
+   - 主要語言：Python
+   - 亮點：把多來源研究流程封裝成單一 skill，很貼近實際 agent 工作流。
+
+16. lfnovo/open-notebook <https://github.com/lfnovo/open-notebook>
+   - 它在做什麼：Notebook LM 的開源替代實作，強調更多彈性與功能。
+   - 主要語言：TypeScript
+   - 亮點：開源版 NotebookLM 一直有需求，這類知識工作工具很容易擴散。
+
+17. freeCodeCamp/freeCodeCamp <https://github.com/freeCodeCamp/freeCodeCamp>
+   - 它在做什麼：免費學習數學、程式設計與電腦科學的開源課程與平台。
+   - 主要語言：TypeScript
+   - 亮點：教育型超大型專案再次上榜，證明長青內容平台仍有強大號召力。
+
+18. microsoft/PowerToys <https://github.com/microsoft/PowerToys>
+   - 它在做什麼：一組強化 Windows 生產力與客製化能力的工具集。
+   - 主要語言：C
+   - 亮點：微軟官方工具常青又實用，能見度與使用面都很穩。
+
+19. mattermost/mattermost <https://github.com/mattermost/mattermost>
+   - 它在做什麼：支援整個軟體開發生命週期的安全協作平台。
+   - 主要語言：TypeScript
+   - 亮點：企業級安全協作需求持續存在，尤其在自架與合規場景很強。
+
+20. restic/restic <https://github.com/restic/restic>
+   - 它在做什麼：快速、安全又高效率的備份工具。
+   - 主要語言：Go
+   - 亮點：備份永遠是剛需，輕量可靠的工具總會有固定熱度。
+
+RUN_STATUS: OK
