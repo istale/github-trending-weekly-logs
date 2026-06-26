@@ -1,0 +1,104 @@
+日期範圍：2026-06-22–2026-06-28｜Trending 篩選條件：Overall
+來源：GitHub Trending Weekly <https://github.com/trending?since=weekly>
+
+1. calesthio/OpenMontage <https://github.com/calesthio/OpenMontage>
+- 它在做什麼：開源 AI 代理式影片製作系統，想把寫程式助手擴成完整影片工作室。
+- 主要語言：Python
+- 亮點：本週吸進 15,793 stars，AI 影片工作流題材直接衝到榜首。
+
+2. DeusData/codebase-memory-mcp <https://github.com/DeusData/codebase-memory-mcp>
+- 它在做什麼：把大型程式碼庫索引成可查詢知識圖譜的 MCP 伺服器。
+- 主要語言：C
+- 亮點：主打毫秒級索引與超低 token 成本，明顯踩中 agent 開發痛點。
+
+3. google-research/timesfm <https://github.com/google-research/timesfm>
+- 它在做什麼：Google Research 的時間序列基礎模型，用於預測任務。
+- 主要語言：Python
+- 亮點：基礎模型概念往時序分析延伸，研究味很重但落地空間也大。
+
+4. koala73/worldmonitor <https://github.com/koala73/worldmonitor>
+- 它在做什麼：即時全球情報儀表板，整合新聞、地緣政治與基礎設施監看。
+- 主要語言：TypeScript
+- 亮點：把 AI 摘要和態勢感知做成一個畫面，適合決策與監控場景。
+
+5. penpot/penpot <https://github.com/penpot/penpot>
+- 它在做什麼：開源設計工具，主打設計與工程協作。
+- 主要語言：Clojure
+- 亮點：Figma 替代品一直有需求，Penpot 這週熱度又被推上來。
+
+6. jamiepine/voicebox <https://github.com/jamiepine/voicebox>
+- 它在做什麼：開源 AI 聲音工作室，支援聲音複製、口述與生成。
+- 主要語言：TypeScript
+- 亮點：AI 語音工具持續升溫，這類創作型產品很容易形成自傳播。
+
+7. asgeirtj/system_prompts_leaks <https://github.com/asgeirtj/system_prompts_leaks>
+- 它在做什麼：彙整各家 AI 產品外流或曝光的 system prompts。
+- 主要語言：JavaScript
+- 亮點：屬於高話題性資料庫，對 prompt engineering 圈有很強圍觀效應。
+
+8. Panniantong/Agent-Reach <https://github.com/Panniantong/Agent-Reach>
+- 它在做什麼：讓 AI agent 直接讀寫多個社群與內容平台的 CLI 工具。
+- 主要語言：Python
+- 亮點：零 API 費用這件事很有殺傷力，對個人開發者尤其有吸引力。
+
+9. ZhuLinsen/daily_stock_analysis <https://github.com/ZhuLinsen/daily_stock_analysis>
+- 它在做什麼：LLM 驅動的多市場股票分析系統，含新聞、看板與自動推送。
+- 主要語言：Python
+- 亮點：把定時化、低成本與投資資訊整合在一起，正中實用派需求。
+
+10. OpenCut-app/OpenCut <https://github.com/OpenCut-app/OpenCut>
+- 它在做什麼：開源版 CapCut 替代品。
+- 主要語言：TypeScript
+- 亮點：短影音編輯工具仍然很吃市場，開源替代方案天然容易爆紅。
+
+11. withastro/flue <https://github.com/withastro/flue>
+- 它在做什麼：用來建構 sandbox agent 的框架。
+- 主要語言：TypeScript
+- 亮點：Astro 團隊出手做 agent 基礎設施，代表前端生態也在卡位。
+
+12. mukul975/Anthropic-Cybersecurity-Skills <https://github.com/mukul975/Anthropic-Cybersecurity-Skills>
+- 它在做什麼：給 AI agents 用的資安技能庫，映射多個安全框架。
+- 主要語言：Python
+- 亮點：把資安知識打包成 skill 套件，很符合 agent 平台化趨勢。
+
+13. Stirling-Tools/Stirling-PDF <https://github.com/Stirling-Tools/Stirling-PDF>
+- 它在做什麼：跨平台 PDF 編修工具，主打任何裝置都能用。
+- 主要語言：Java
+- 亮點：老牌剛需工具還能衝上週榜，說明實用型軟體永遠有市場。
+
+14. interviewstreet/hiring-agent <https://github.com/interviewstreet/hiring-agent>
+- 它在做什麼：用 AI 代理評估與打分履歷。
+- 主要語言：Python
+- 亮點：招聘流程自動化一直有企業買單，題材簡單但轉化潛力高。
+
+15. stablyai/orca <https://github.com/stablyai/orca>
+- 它在做什麼：管理多個平行 coding agents 的 ADE 開發環境。
+- 主要語言：TypeScript
+- 亮點：從單代理走向代理艦隊，明顯是下一波開發工具敘事。
+
+16. n0-computer/iroh <https://github.com/n0-computer/iroh>
+- 它在做什麼：以 key 為中心的模組化 Rust 網路堆疊。
+- 主要語言：Rust
+- 亮點：用金鑰取代脆弱 IP 導向的思路很酷，偏底層但很有技術魅力。
+
+17. Kong/insomnia <https://github.com/Kong/insomnia>
+- 它在做什麼：支援 GraphQL、REST、gRPC 等協定的開源 API client。
+- 主要語言：TypeScript
+- 亮點：API 工具仍然是開發者日常剛需，老工具持續吃到 AI 時代紅利。
+
+18. makeplane/plane <https://github.com/makeplane/plane>
+- 它在做什麼：Jira、Linear、Monday、ClickUp 的開源替代方案。
+- 主要語言：TypeScript
+- 亮點：專案管理工具的去 SaaS 化需求很穩，開源替代品持續有人追。
+
+19. bytedance/deer-flow <https://github.com/bytedance/deer-flow>
+- 它在做什麼：長時程 SuperAgent 框架，可研究、寫碼與創作。
+- 主要語言：Python
+- 亮點：ByteDance 版本的長工時 agent 平台，產品敘事完整又夠大。
+
+20. mattpocock/skills <https://github.com/mattpocock/skills>
+- 它在做什麼：Matt Pocock 公開分享的工程師技能與 agent 工作流集合。
+- 主要語言：Shell
+- 亮點：本週拿下 11,246 stars，顯示「skill 化」已經成為熱門傳播單位。
+
+RUN_STATUS: OK
